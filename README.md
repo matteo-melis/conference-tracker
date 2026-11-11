@@ -1,24 +1,12 @@
 # AI, ML & Computer Vision Conference Tracker
 
-Abstract deadlines, paper deadlines, and conference details for the next submission cycle at each venue, with previous-edition deadlines for planning.
+Abstract deadlines, paper deadlines, and conference details for the next submission cycle at A\* AI/ML/CV venues, with previous edition deadlines used to estimate conferences that are TBA.
 
-**Last verified: 11 November 2026** · [AI / ML](#ai--ml) · [Computer Vision](#computer-vision) · [Closed submission cycles](#closed-submission-cycles)
-
-> **CVPR 2027:** Abstract registration closed on **10 November 2026**. Authors who registered a paper can still submit the full paper by **16 November 2026**. New submissions can no longer be created. See the [official author guidelines](https://cvpr.thecvf.com/Conferences/2027/AuthorGuidelines) and [call for papers](https://cvpr.thecvf.com/Conferences/2027/CallForPapers).
-
-## Reading the tracker
-
-- **Scope:** Main conference research papers. Each row targets the next cycle available to a new submission, including cycles whose calls have yet to be announced. Workshops and special tracks may have different deadlines.
-- **Expected deadlines:** Marked with `(expected)`. These use the same day and month as the previous edition, shifted forward one year for annual conferences or two years for ICCV and ECCV. They are rough planning estimates and have not been announced by the organizers.
-- **TBA:** Conference dates or locations not yet announced in the official sources checked.
-- **Previous edition deadlines:** Historical dates from the preceding edition, linked to its official source. These are the basis for expected deadlines where upcoming deadlines have not been announced. ICCV and ECCV references are two conference years earlier because they run biennially. Historical dates are not confirmed deadlines for the upcoming cycle.
-- **Not listed:** The published call gives no separate abstract deadline.
-- **Conference dates:** Include workshops and tutorials where published.
-- **Expected edition:** The next year inferred from the conference's annual or biennial schedule. Its call and event details remain unannounced.
+**Last verified: 11 November 2026** · [AI / ML](#ai--ml) · [Computer Vision](#computer-vision)
 
 ## AI / ML
 
-Artificial intelligence and machine learning conferences, ordered by the abstract deadline where required, otherwise the full paper deadline. Expected dates are included in this ordering.
+Artificial intelligence and machine learning conferences, ordered by the abstract deadline where required, otherwise the full paper deadline. Expected dates are included in the ordering.
 
 | Conference                                                                                                              | Abstract deadline      | Full paper deadline                                                      | Previous edition deadlines                                                                                                           | Conference dates  | Location                          |
 | :---------------------------------------------------------------------------------------------------------------------- | :--------------------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :---------------- | :-------------------------------- |
@@ -41,16 +29,12 @@ CVPR runs annually. ICCV and ECCV alternate in odd and even years, respectively.
 | [**CVPR 2028**](https://www.thecvf.com/?page_id=100 "IEEE/CVF Conference on Computer Vision and Pattern Recognition") | 10 Nov 2027 (expected)           | 16 Nov 2027 (expected) | [CVPR 2027](https://cvpr.thecvf.com/Conferences/2027/CallForPapers)<br>Registration: 10 Nov 2026<br>Paper: 16 Nov 2026 | TBA                                                            | San Antonio, Texas, USA                               |
 | [**ECCV 2028**](https://eccv.ecva.net/ "European Conference on Computer Vision")                                      | 26 Feb 2028 (expected)           | 5 Mar 2028 (expected)  | [ECCV 2026](https://eccv.ecva.net/Conferences/2026/Dates)<br>Registration: 26 Feb 2026<br>Paper: 5 Mar 2026            | TBA                                                            | TBA                                                   |
 
-**ECCV 2028:** The linked official website still covers the 2026 edition. No 2028 call, deadlines, location, or event dates were found in the [conference website](https://eccv.ecva.net/) or [ECVA announcements](https://www.ecva.net/).
-
 ## Closed submission cycles
 
-These upcoming events have already closed registration for new main-track papers. Their dates are retained for reference and explain why their next editions appear above.
+These upcoming events have already closed registration for new main track papers
 
 | Conference                                                 | Abstract / registration deadline                                               | Full paper deadline                                                                                | Conference dates | Location                             |
 | :--------------------------------------------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :--------------- | :----------------------------------- |
 | [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/) | 21 Jul 2026 · Closed                                                           | 28 Jul 2026 · Closed                                                                               | 16–23 Feb 2027   | Montréal, Canada                     |
 | [**ICLR 2027**](https://iclr.cc/Conferences/2027)          | [18 Sep 2026](https://iclr.cc/Conferences/2027/CallForPapers) · Closed         | [25 Sep 2026](https://iclr.cc/Conferences/2027/CallForPapers) · Closed                             | 26–30 Apr 2027   | California, USA. City and venue TBA. |
 | [**CVPR 2027**](https://cvpr.thecvf.com/Conferences/2027)  | [10 Nov 2026](https://cvpr.thecvf.com/Conferences/2027/CallForPapers) · Closed | [**16 Nov 2026**](https://cvpr.thecvf.com/Conferences/2027/CallForPapers) · Registered papers only | 20–25 Jun 2027   | Seattle, Washington, USA             |
-
-All conference names and deadline links point to official organizers or sponsoring associations. Recheck the linked call for papers before submitting for any deadline or policy updates.
